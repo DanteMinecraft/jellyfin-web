@@ -21,3 +21,17 @@ config.json
 
 # environment related
 .envrc
+
+# Capacitor
+.capacitor/
+
+# Android Studio
+android/.gradle/
+android/build/
+android/app/build/
+android/local.properties
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db

@@ -75,6 +75,9 @@
     "worker-loader": "3.0.8"
   },
   "dependencies": {
+    "@capacitor/android": "8.4.2",
+    "@capacitor/cli": "8.4.2",
+    "@capacitor/core": "8.4.2",
     "@emotion/react": "11.14.0",
     "@emotion/styled": "11.14.0",
     "@fontsource/noto-sans": "5.2.7",
